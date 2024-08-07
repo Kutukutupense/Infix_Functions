@@ -2,7 +2,7 @@ fun main() {
     val sonuc = 3 topla 5 topla 10
     println(sonuc)
 
-    val sonuc2 = "İmam hatipler" birlestir " Kapatılsın"
+    val sonuc2 = "Eylem" birlestir " Bilecik"
     println(sonuc2)
 
 }
